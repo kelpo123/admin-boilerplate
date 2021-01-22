@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "login": {
+      "label": {
+        "phone": "e.g. 08000123123",
+        "login": "Login"
+      },
+      "button": {
+        "submit": "Mulai"
+      }
+    }
+  },
+  "home": {
+    "slider": {
+      "title": "Pasang Iklan"
+    }
+  },
+  "ads": {
+    "choose-plan":{
+      "title":"Dimana anda ingin menampilkan iklan?"
+    },
+    "website":{
+      "title":"Pilih website yang sesuai denganmu?"
+    }
+  },
+  "global":{
+    "next": "Selanjutnya",
+    "filter": "Filter"
+  }
+}
